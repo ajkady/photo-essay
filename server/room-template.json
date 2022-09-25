@@ -1,0 +1,39 @@
+{
+	"content": {
+		"title": "Weird Room",
+		"subtitle": "a slipshod introduction",
+		"coverImage": "https://res.cloudinary.com/dxwrptkpq/image/upload/e_saturation:-20/v1664071672/Weird%20Room/IMG_8044_oli7af.jpg",
+		"author": "Ahmad Kady",
+		"segments": [
+			{
+				"text": [
+					"Seven of us moved into this house together, and all seven of us have stayed, one year after another after another. Most of us were randomly assigned to the same dormitory hallway our freshman year, and the group formed out of the simple necessity of finding a place. It really is very lucky. We’ve never been the sort of house which runs on diehard-best-friendship, but we laugh together, and we can’t seem to get into any fights."
+				],
+				"images": [
+					"https://res.cloudinary.com/dxwrptkpq/image/upload/v1664077109/Weird%20Room/IMG_8048_t8xpfw.jpg"
+				],
+				"textPosition": "right"
+			},
+			{
+				"text": [
+					"Three years ago, I moved into a big house on Ann Street. I am still here.",
+					"In the ever-dynamic warfare of securing off-campus housing year by year, this is considered very lucky.",
+					"Friend groups splinter apart, a better place becomes available… For whatever reason, nobody can seem to stay still for very long.",
+					"College is hectic – everyone’s priorities and majors and friend groups are always shifting around on a dime, why would renting a place be any different?"
+				],
+				"images": [
+					"https://res.cloudinary.com/dxwrptkpq/image/upload/v1664062934/samples/animals/reindeer.jpg"
+				],
+				"textPosition": "left"
+			},
+			{
+				"text": [
+					"this is text with no photo",
+					"I don't understand why you won't just talk to me."
+				],
+				"images": [],
+				"textPosition": "below"
+			}
+		]
+	}
+}
