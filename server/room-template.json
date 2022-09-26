@@ -2,37 +2,211 @@
 	"content": {
 		"title": "Weird Room",
 		"subtitle": "a slipshod introduction",
-		"coverImage": "https://res.cloudinary.com/dxwrptkpq/image/upload/e_saturation:-20/v1664071672/Weird%20Room/IMG_8044_oli7af.jpg",
+		"coverImage": "https://res.cloudinary.com/dxwrptkpq/image/upload/v1664222512/Weird%20Room/IMG_0205_eyiaie.jpg",
 		"author": "Ahmad Kady",
 		"segments": [
 			{
 				"text": [
-					"Seven of us moved into this house together, and all seven of us have stayed, one year after another after another. Most of us were randomly assigned to the same dormitory hallway our freshman year, and the group formed out of the simple necessity of finding a place. It really is very lucky. We’ve never been the sort of house which runs on diehard-best-friendship, but we laugh together, and we can’t seem to get into any fights."
+					"Three years ago, I moved into a big house on Ann Street. I still live there now.",
+					"In the ever-changing warfare of securing off-campus housing year by year, this is considered very lucky.",
+					"Friend groups splinter apart, better places become available, landlords hike up rent prices… For whatever reason, nobody can seem to stay still for very long."
+				],
+				"images": [],
+				"textPosition": "below"
+			},
+			{
+				"text": [
+					"Seven of us moved into this house together, and all seven of us have stayed, one year after another after another. Most of us were randomly assigned to the same dormitory hallway our freshman year, and the group formed out of the simple necessity of finding a place.",
+					"We’ve never been the sort of house which runs on diehard-best-friendship, but we laugh together, and we can’t seem to get into any fights."
+				],
+				"images": [],
+				"textPosition": "below"
+			},
+			{
+				"text": [
+					"The upshot of all of this is that I’ve had the same room for three years. It’s the smallest room in the house, by a large margin.",
+					"I chose it because when we met over Zoom 3 years ago and agreed on how we’d split rent, it ended up being the cheapest room, by a large margin."
+				],
+				"images": [],
+				"textPosition": "below"
+			},
+			{
+				"text": [
+					"So, I’d like to introduce you to my room — I think because it’s the best way I have to introduce myself.",
+					"There are probably lots of things I won’t be able to explain. Still, I trust you’ll get a sense of things.",
+					"Also, I have to admit: I tidied up a bit. You have to understand — I don’t know you that well. "
+				],
+				"images": [],
+				"textPosition": "below"
+			},
+			{
+				"text": [
+					"This is the pattern that covers all four walls. Plaid is nice because all the right angles mean I don’t have to use a level when I hang things up, though I doubt I’d use one regardless."
 				],
 				"images": [
-					"https://res.cloudinary.com/dxwrptkpq/image/upload/v1664077109/Weird%20Room/IMG_8048_t8xpfw.jpg"
+					"https://res.cloudinary.com/dxwrptkpq/image/upload/v1664222505/Weird%20Room/IMG_0228_sqlzv0.jpg"
+				],
+				"textPosition": "below"
+			},
+			{
+				"text": [
+					"This is where I’d ask you to sit and sip at a cup of Lipton tea, if you were with me here in a way which made that sort of thing possible. There are a lot of sacrifices you have to make when you want to preserve a seating area in a 10x10 bedroom, all of which feel worth it to me."
+				],
+				"images": [
+					"https://res.cloudinary.com/dxwrptkpq/image/upload/v1664222511/Weird%20Room/IMG_0202_q50snu.jpg"
+				],
+				"textPosition": "below"
+			},
+			{
+				"text": [
+					"This is where I keep the things I’ve read, in conjunction with the things I haven’t read."
+				],
+				"images": [
+					"https://res.cloudinary.com/dxwrptkpq/image/upload/v1664224062/Weird%20Room/IMG_0170_fwzlpm.jpg"
+				],
+				"textPosition": "below"
+			},
+			{
+				"text": [
+					"This is my miniature museum of macabre treasures, found and gifted. "
+				],
+				"images": [
+					"https://res.cloudinary.com/dxwrptkpq/image/upload/v1664222505/Weird%20Room/IMG_0171_gsrt8n.jpg"
+				],
+				"textPosition": "below"
+			},
+			{
+				"text": [
+					"This is what I aspire to be. At least, it’s what I aspired to be when I taped it up. I think it’s still accurate, though nowadays I find myself aspiring to be someone who is goofy in a lovely sort of way and also has a job."
+				],
+				"images": [
+					"https://res.cloudinary.com/dxwrptkpq/image/upload/v1664222513/Weird%20Room/IMG_0210_i4nid6.jpg"
+				],
+				"textPosition": "below"
+			},
+			{
+				"text": [
+					"When I first moved in, way back when, I had never considered myself the sort of person who cared an awful lot about their room. I’m not sure what I thought I was instead - maybe some sort of transcendent intellectual, too concerned with trying very hard to like Rimbaud and walking around in the cold without a jacket on to concern myself with my superficial quarters. A monk in a cave.",
+					"I think I read too many books back then. I read much less now, and I find I’m much happier."
+				],
+				"images": [
+					"https://res.cloudinary.com/dxwrptkpq/image/upload/v1664224196/Weird%20Room/IMG_0209_h1k4ny.jpg"
+				],
+				"textPosition": "below"
+			},
+			{
+				"text": [
+					"These days, I am very much the sort of person who cares about their room. I have this specific room to thank for the transformation. It’s a special little room. One-of-a-kind foundations. A room with character! It’s the only room in the house with this crazy green wallpaper, which swallows all the light and trades it for murky comfort. Thick wooden embellishments frame the stubborn windows and squeaky doors.",
+					"The bones of this room have gotta be a hundred years old, but who knows how many times the whole house has been refurbished and repackaged for the countless students who’ve shifted in and out of each room. If you tilt an ear to the cast iron vent covers, you can hear the spirits they’ve left behind making pleasant conversation about homecoming games and credit hours."
+				],
+				"images": [
+					"https://res.cloudinary.com/dxwrptkpq/image/upload/v1664222503/Weird%20Room/IMG_0224_lzakfs.jpg"
 				],
 				"textPosition": "right"
 			},
 			{
 				"text": [
-					"Three years ago, I moved into a big house on Ann Street. I am still here.",
-					"In the ever-dynamic warfare of securing off-campus housing year by year, this is considered very lucky.",
-					"Friend groups splinter apart, a better place becomes available… For whatever reason, nobody can seem to stay still for very long.",
-					"College is hectic – everyone’s priorities and majors and friend groups are always shifting around on a dime, why would renting a place be any different?"
+					"I buy decor at junk stores and antique malls like a mother buying clothes for her newborn. I’ve tried out every possible furniture arrangement, constantly striving to make the best of the tiny space. I buy candles with scary price tags and carefully spraypaint lamps so they match the walls.",
+					"I collect and discard and rearrange and rearrange. I make messes and clean messes. I’d call it worship - but a nice sort of worship, where the stakes only ever swing between coziness and slight discomfort."
 				],
 				"images": [
-					"https://res.cloudinary.com/dxwrptkpq/image/upload/v1664062934/samples/animals/reindeer.jpg"
+					"https://res.cloudinary.com/dxwrptkpq/image/upload/v1664222514/Weird%20Room/IMG_0208_sitydv.jpg"
+				],
+				"textPosition": "below"
+			},
+			{
+				"text": [
+					"It’s eclectic and slipshod: crooked frames and crammed shelves. A dried flower nailed into the wall because I couldn’t find tape. A string of fairy lights dangling low, where they fell off their hook two years ago and haven’t been restrung since. The sort of casual worship I can commit to every day without getting worn out.",
+					"I’m a big guy in a teeny room. My feet hang over the edge of my bed and kick my plants as I sleep. I’m constantly jostling the rickety furniture and swiveling the office chair into the bookshelf, so that everything falls over and tumbles to the ground. Sometimes, when I feel like giving myself too much credit, I convince myself that I’ve intentionally set the whole room up so that a bit of sloppiness looks intentional, because a bit of sloppiness is something I can’t possibly avoid."
+				],
+				"images": [
+					"https://res.cloudinary.com/dxwrptkpq/image/upload/v1664222512/Weird%20Room/IMG_0198_xzxyp9.jpg"
+				],
+				"textPosition": "below"
+			},
+			{
+				"text": [
+					"It’s dense with time in a way you can’t stage. Three years of notes haphazardly stuck to walls, of toys and trinkets and treasures offered safe harbor, of plants watered sporadically and hardwood scratched haphazardly.",
+					"I look around and everything I see feels so vividly, sloppily, like myself. It’s a version of me I could never just be outright, not without coming on too strong or missing some precious nuance."
+				],
+				"images": [
+					"https://res.cloudinary.com/dxwrptkpq/image/upload/v1664222514/Weird%20Room/IMG_0212_kx10ms.jpg"
 				],
 				"textPosition": "left"
 			},
 			{
 				"text": [
-					"this is text with no photo",
-					"I don't understand why you won't just talk to me."
+					"I wouldn’t say the room looks “good,” in any Better Homes magazine sort of way.",
+					"I’d say that I love it like I love myself.",
+					"Because it is perfectly good at doing exactly what it is that it does.",
+					"Because it’s dense with time in a way you can’t stage.",
+					"Because it’s difficult to live with, as narrow as it is, and as quickly as it gets cluttered.",
+					"Because it always bounces back with a bit of attention.",
+					"Because it’s goofy, in a lovely sort of way.",
+					"Because I can’t help but see it tenderly."
+				],
+				"images": [
+					"https://res.cloudinary.com/dxwrptkpq/image/upload/v1664222503/Weird%20Room/IMG_0161_d6b9ad.jpg"
+				],
+				"textPosition": "right"
+			},
+			{
+				"text": [
+					"I’ve found that it’s a relationship I rely on: this oneness with my room. I need to be able to tidy myself up, to buy gifts for myself. To be entirely alone and entirely surrounded by myself. I don’t think I’m very good at noticing inward: I struggle to diagnose how I feel and especially what I need. But I can notice every inch of this room, and when things feel off in here, it clues me in to the silently suffering spirit I hadn’t noticed inside of myself."
+				],
+				"images": [
+					"https://res.cloudinary.com/dxwrptkpq/image/upload/v1664222503/Weird%20Room/IMG_0221_jqpjib.jpg"
+				],
+				"textPosition": "below"
+			},
+			{
+				"text": [
+					"And it’s because of all this that I sense a difficult breakup approaching. Because I’m on my way out.",
+					"I’m graduating in the Spring and moving somewhere new, and I’m leaving a piece of myself behind in the cast iron vent, where it will make pleasant conversation about homecoming games and credit hours with everyone else who’s come and gone.",
+					"I don’t know how easy or how hard it will be to find this murky green comfort once I’m gone.  I try not to be pessimistic, but the walls will likely be white, and the doorframes slim and bare. Where will I go when I need to be surrounded by myself? And where will I invite someone when I want them to really meet me?"
 				],
 				"images": [],
 				"textPosition": "below"
+			},
+			{
+				"text": [
+					"I can keep all the junk and bring it with me if I’d like, but it’s junk I’ve always collected with these one-of-a-kind foundations in mind. It’s part of the partnership between this me and this room. I won’t be surprised if many of these crooked frames and once-important notes become worthless to me the second I pull them off the wall."
+				],
+				"images": [],
+				"textPosition": "below"
+			},
+			{
+				"text": [
+					"Don’t get me wrong – I will form new partnerships. Whatever these rooms in my future look like, I will change them and they will change me. I’ll paint the walls to match my clothing and buy clothing to match my walls. With luck, we’ll become one in the same."
+				],
+				"images": [],
+				"textPosition": "below"
+			},
+			{
+				"text": [
+					"But it still hurts — and it is only just beginning to hurt — to leave this specific partnership behind. Because it’s dense with time in a way I can’t fake.",
+					"As certain as I am that things will turn out alright, there’s the inevitable period between now and the turn out, and that’s the thing I’m worried about.",
+					"When I’m hopelessly unmoored, drifting through days in a place I don’t belong. When my gaze jitters back and forth, searching for comfort. When solitude is loneliness."
+				],
+				"images": [],
+				"textPosition": "below"
+			},
+			{
+				"text": [
+					"Of course, there’s other places to find oneness while I wait for things to come together. I can love another person, or take a walk in the woods. Time isn’t the worst thing in the world to have to wait for. It’s guaranteed to come around eventually."
+				],
+				"images": [],
+				"textPosition": "below"
+			},
+			{
+				"text": [
+					"For now, I will dance on squeaky hardwood and slam heavy doors and heave crooked windows and enjoy the room. And when I’m cast out into the cruel unknown, I’ll fill up the time with one step after another.",
+					"Put up a sticky note, hang up a frame, water a plant."
+				],
+				"images": [
+					"https://res.cloudinary.com/dxwrptkpq/image/upload/v1664222506/Weird%20Room/IMG_0230_xzpjpe.jpg"
+				],
+				"textPosition": "above"
 			}
 		]
 	}
