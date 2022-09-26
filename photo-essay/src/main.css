@@ -97,7 +97,6 @@ img {
   margin-top: 0;
   display: flex;
   width: 80%;
-  max-width:  600px;
   align-items: center;
   justify-content: center;
 }
@@ -164,7 +163,7 @@ img {
 }
 
 .bottomGap {
-  height: 30vh;
+  height: 5vh;
 }
 
 button {
